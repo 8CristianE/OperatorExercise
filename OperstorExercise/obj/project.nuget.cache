@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7PvRflWqElTXGugTIyj0DVxz/LIPCDkU0dcIKf1GbJdz1zrZp3StNSXCbEJ50GCjQCg+VAarf7DN2I4jkI3SQ==",
+  "success": true,
+  "projectFilePath": "/Users/crise/repos/OperstorExercise/OperstorExercise/OperstorExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/crise/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/crise/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/crise/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

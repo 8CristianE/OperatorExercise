@@ -1,0 +1,14 @@
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise.deps.json
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise.runtimeconfig.json
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise.runtimeconfig.dev.json
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise.dll
+/Users/crise/repos/OperstorExercise/OperstorExercise/bin/Debug/netcoreapp3.1/OperstorExercise.pdb
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.csproj.AssemblyReference.cache
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.AssemblyInfoInputs.cache
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.AssemblyInfo.cs
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.csproj.CoreCompileInputs.cache
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.dll
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.pdb
+/Users/crise/repos/OperstorExercise/OperstorExercise/obj/Debug/netcoreapp3.1/OperstorExercise.genruntimeconfig.cache
